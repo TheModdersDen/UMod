@@ -34,3 +34,4 @@ Current developers:
 Coder:
 - Yuri6037
 - SuperPlayer
+- TheModdersDen
